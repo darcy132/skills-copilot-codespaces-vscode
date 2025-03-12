@@ -81,6 +81,7 @@ Now lets see how you can leverage comments to generate Copilot suggestions!
    ```
 
 **Wait about 60 seconds then refresh your repository landing page for the next step.**
+add new line.
 
 <footer>
 
